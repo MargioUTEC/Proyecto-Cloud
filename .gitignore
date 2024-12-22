@@ -1,0 +1,12 @@
+env/
+db/
+backend/api1/__pycache__/
+backend/api1/server/__pycache__/
+
+backend/api2/__pycache__/
+backend/api2/server/__pycache__/
+
+
+backend/api3/__pycache__/
+backend/api3/server/__pycache__/
+
